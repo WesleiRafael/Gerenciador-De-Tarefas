@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GerenciadorDeTarefas</id>
+    <version>1.0.0</version>
+    <authors>GerenciadorDeTarefas</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="NUnit" version="4.1.0" exclude="Build,Analyzers" />
+        <dependency id="NUnit3TestAdapter" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net7.0\GerenciadorDeTarefas.runtimeconfig.json" target="lib\net7.0\GerenciadorDeTarefas.runtimeconfig.json" />
+    <file src="C:\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net7.0\GerenciadorDeTarefas.dll" target="lib\net7.0\GerenciadorDeTarefas.dll" />
+  </files>
+</package>
